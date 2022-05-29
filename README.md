@@ -1,2 +1,0 @@
-# nuevoejemplo
-creando nuevo ejemplo 
